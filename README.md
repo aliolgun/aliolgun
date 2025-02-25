@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali Olgun</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<!--
-**aliolgun/aliolgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤝 **Latest software follow developments and innovations and I'm trying to use**
 
-Here are some ideas to get you started:
+- 📫**olgunali55@outlook.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄[aliolgun.com.tr](aliolgun.com.tr)
+
+- ⚡**I pay attention to the principles of writing clean code**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ali-olgun-a36769232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-olgun-a36769232" height="30" width="40" /></a>
+<a href="https://kaggle.com/aliolgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aliolgun" height="30" width="40" /></a>
+</p>
+
