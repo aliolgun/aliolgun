@@ -5,7 +5,7 @@
 
 - 📫**olgunali55@outlook.com**
 
-- 📄[aliolgun.com.tr](aliolgun.com.tr)
+- 📄
 
 - ⚡**I pay attention to the principles of writing clean code**
 
